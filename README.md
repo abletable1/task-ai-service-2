@@ -109,5 +109,6 @@ GitHub Actions на push/PR устанавливает зависимости, �
 сборку и проверку запуска установленного wheel на Python 3.11/3.12/3.13.
 Ключ GigaChat для CI не нужен. [Результаты и скриншоты](TESTING.md).
 
-Для сдачи нужен PR с целью изменений, кратким описанием архитектуры и заполненным
-чек-листом самопроверки. Публикация PR и успешный удалённый CI пока не подтверждены.
+Pull Request: [#1](https://github.com/abletable1/task-ai-service-2/pull/1).
+[GitHub Actions](https://github.com/abletable1/task-ai-service-2/actions/runs/39839640601)
+прошёл успешно.
